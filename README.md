@@ -1,2 +1,2 @@
 # suanming-bot
-算名QQ机器人联系
+算名QQ机器人练习
