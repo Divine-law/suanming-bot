@@ -1,2 +1,1 @@
-# MiraiTemplate
-一个Mirai console插件的Java模板
+一个算命的QQ机器人联系
